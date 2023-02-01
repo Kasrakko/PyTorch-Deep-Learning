@@ -1,3 +1,3 @@
 # PyTorch-Deep-Learning
 
-**NN1** -> PyTorch Exercising
+**NN_0** -> PyTorch Exercising
