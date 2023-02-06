@@ -2,6 +2,6 @@
 
 **NN_0** -> PyTorch Exercising
 
-**NN_1** -> Starting with model creating and spiliting dataset
+**NN_1** -> The first model with linear regression
 
 
