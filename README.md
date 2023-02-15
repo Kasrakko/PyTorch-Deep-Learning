@@ -6,4 +6,6 @@
 
 **NN_2** -> First non-Linear NN with binary classification and multi-class classification
 
+**CNN_0** -> Computer vision fandamentals for CNN
+
 
