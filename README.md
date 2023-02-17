@@ -8,4 +8,6 @@
 
 **CNN_0** -> Computer vision fandamentals for CNN
 
+**CNN_01** -> First convolutional neural network 
+
 
